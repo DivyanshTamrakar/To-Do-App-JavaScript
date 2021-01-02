@@ -90,5 +90,11 @@ form button:hover {
 }
 
 .todo-item {
-    padding: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0rem;
+}
+.fa-trash,.fa-check{
+    pointer-events: none;
 }
